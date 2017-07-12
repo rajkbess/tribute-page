@@ -1,3 +1,72 @@
-html{
-	overflow: auto;
+body{
+  margin:0;
+  overflow: auto;
+   background-color:#a6a6a6;
+}
+img{
+  margin-left:40%;
+}
+p{ 
+  text-align: center;
+  font-size:1.2em;
+}
+ul{
+  font-size:1.3em;
+  margin-left:15%;
+  margin-right:15%;
+}
+small{
+  text-align: center;
+  margin-left:45%;
+}
+hr {
+    display: block;
+    height: 1em;
+    border: 0;
+    border-top: 0.1em solid #4d4d4d;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 0; 
+}
+#title {
+  float: left;
+  text-align: center;
+  background-color: #cccccc;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  margin-left:0;
+  font-size: 1.25em;
+}
+#content{
+  background-color:#e6e6e6;
+  margin-left:5%;
+  margin-top:10%;
+  margin-right:5%;
+  margin-bottom:6%;
+}
+#e{
+  font-size : 2em;
+}
+#timeline{
+  font-size:1.5em;
+}
+#sources{
+  font-size : 1.8em;
+}
+#Author{
+  font-size : 1.6em;
+}
+a{
+  cursor: pointer;
+  text-decoration: none;
+}
+a:visited{
+  cursor: pointer;
+  text-decoration: none;
+  color : blue;
+}
+a:hover{
+  cursor: pointer;
+  text-decoration: none;
 }
