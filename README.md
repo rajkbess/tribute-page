@@ -9,6 +9,6 @@ Photo and small txt are not responsive in smaller devices.
 Online upload excluding Github is at https://codepen.io/DrakeApplewood/full/jwBBRw/
 
 Coded and written by Riste P.
-Linkedin : https://www.linkedin.com/in/riste-petrov-442333142/
-Github : https://github.com/DrakeApplewood
-Codepen : https://codepen.io/DrakeApplewood/
+Linkedin : https://www.linkedin.com/in/riste-petrov-442333142/                                                                              
+Github : https://github.com/DrakeApplewood                                                                                                                                               
+Codepen : https://codepen.io/DrakeApplewood/                                                                                                                         
