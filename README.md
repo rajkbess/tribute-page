@@ -12,7 +12,7 @@ Resposnive issues not fixed yet.
  <br>
 ## Coded and written by Riste P.
 <br>
-### Links to my
+## Links to my
 <br> 
 [Linkedin](https://www.linkedin.com/in/riste-petrov-442333142/)
 <br>
