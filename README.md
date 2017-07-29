@@ -11,7 +11,7 @@ Resposnive issues not fixed yet.
   Uploaded html,css,js files are done at [CodePen.io](https://codepen.io/DrakeApplewood/full/jwBBRw/)
  <br>
 ## Coded and written by Riste P.
-<br> 
+ 
 [Linkedin](https://www.linkedin.com/in/riste-petrov-442333142/)
 <br>
 [Codepen](https://codepen.io/DrakeApplewood/)
