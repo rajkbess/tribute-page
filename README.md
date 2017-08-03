@@ -7,7 +7,7 @@ The Tribute Page Project was inspired by the FreeCodeCamp Project on their Web D
 
 Resposnive issues are fixed at this version.
  <br>
- 1.Photo is responisive and small text is removed because it was not important.:
+ 1.Photo is responisive and small text is removed because it was not important.
  <br>
   Uploaded html,css,js files are done at [CodePen.io](https://codepen.io/DrakeApplewood/full/jwBBRw/)
  <br>
